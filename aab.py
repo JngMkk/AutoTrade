@@ -5,3 +5,6 @@ print('Nice to meet u')
 print('Nice to mat u')
 
 print('dreams come true')
+print('ahahahaahh!')
+
+print( 'Hello')
